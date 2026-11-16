@@ -1,0 +1,33 @@
+[
+ {
+  "mode": "redesign",
+  "depth": "full",
+  "scope": "site",
+  "shape": "night shift",
+  "theme": "brand",
+  "axes": "light/grotesk-sans/chromatic-violet",
+  "hero": "Stage",
+  "nav": "edge-aligned, retracts on scroll",
+  "footer": "mast",
+  "imagery": "product built",
+  "photos": [],
+  "entry": "hero settle + one reveal + scroll-scrubbed nav hairline",
+  "sections": [
+   "Stage hero",
+   "Rows ledger",
+   "Switcher diptych",
+   "Steps",
+   "Figures tiers",
+   "Switcher table",
+   "Rows",
+   "Grid promises",
+   "Offer",
+   "Rows faq",
+   "Band close"
+  ],
+  "signature": "the dispatch console booking the 11:42 PM leak live",
+  "waived": [],
+  "prompt": "CloseDesk, an AI booking desk for field-service trades",
+  "date": "2026-11-16"
+ }
+]
